@@ -115,3 +115,6 @@ console.log(obj.auth());
 // => { name: 'foo', pass: 'bar' });
 ```
 
+---
+
+...

@@ -1,0 +1,13 @@
+{
+  "name": "propo",
+  "version": "0.0.0",
+  "description": "Property getter / setter helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^1.18.2"
+  }
+}

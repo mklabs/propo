@@ -1,10 +1,13 @@
-
 # propo
 
 This module exposes a single function, a functional helper to define
-chained getter / setter on an Object.
+chained getter / setter on an object.
 
 Eases the process of building a chaining API.
+
+## Install
+
+    npm install propo
 
 ## Usage
 
